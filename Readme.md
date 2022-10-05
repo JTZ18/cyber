@@ -5,5 +5,5 @@ List of useful commands to get started
 docker build .
 
 # to run any commands in the environemnt
-docker run --name myapp -i -t ubuntu --rm cyber:latest
+docker run --name myapp -i -t --rm cyber:latest
 ```
