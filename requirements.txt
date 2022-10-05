@@ -1,0 +1,4 @@
+angr==9.1.11752
+gevent
+ipython
+r2pipe
